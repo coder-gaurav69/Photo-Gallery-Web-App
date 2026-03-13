@@ -32,4 +32,4 @@ This is a simple Photo Gallery project built with **React** and **Tailwind CSS**
 - `src/reducers`: Reducer logic for managing the favorite list.
 
 ---
-Created by [Your Name]
+Created by Gaurav Chand Rikhari
